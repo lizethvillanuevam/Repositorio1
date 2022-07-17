@@ -2,3 +2,5 @@ Pendientes:
 - Aprender origami para la señora Sofia
 - Estudiar a fondo webscraping
 - Destronar a aracely(prioridad)
+
+a
